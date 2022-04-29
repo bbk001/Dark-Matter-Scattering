@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Dark Matter Scattering
+message: Please cite if used.
+type: software
+authors:
+  - given-names: Benjamin
+    family-names: Khoury
+    name-particle: B.
+    email: benjaminbrookskhoury@gmail.com
+    affiliation: Harvey Mudd College
+    orcid: 'https://orcid.org/0000-0003-3309-7358'
